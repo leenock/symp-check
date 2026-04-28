@@ -1,2 +1,0 @@
-# 📦 List of Python dependencies required to run the project
-# (used with: pip install -r requirements.txt)

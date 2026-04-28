@@ -1,1 +1,0 @@
-   # 🪵 Logging system (tracks errors, requests, system flow)

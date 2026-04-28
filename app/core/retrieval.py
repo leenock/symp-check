@@ -1,1 +1,0 @@
-# hybrid + multi-query retrieval
