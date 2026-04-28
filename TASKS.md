@@ -1,0 +1,5 @@
+- [ ] Setup project
+- [ ] Build UI
+- [ ] Add dataset
+- [ ] Implement search
+- [ ] Add AI response
